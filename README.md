@@ -1,2 +1,2 @@
 # dotclicker
-DotClicker The Game
+DotClicker made with friends :3
